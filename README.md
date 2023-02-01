@@ -24,6 +24,7 @@ List of three best Players in India:-
 I feel Like i want to visit my Favorite country once in my life time. That atomospher and nature and land scapes in that is very Beautiful. I Strongly believe that need to enjoy that kind of nature beauties once in my life time.
 
 |   **Country Name**              |  **Good For a Reason**             |**Days Suggested**    |
+|---------------------------------------------------------------------------------------------|
 |     India                       |    Land Scapes and Mountains       |    15days            |
 |     Maldives                    |    Beaches                         |    7days             |
 |     Hawaei                      |    Mountains and Beaches           |    10days            |
