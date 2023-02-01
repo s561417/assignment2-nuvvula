@@ -8,7 +8,5 @@
 List of three best Players:-
 
 *Rohit Sharma*
-
 *Virat Kohli*
-
 *Suryakumar Yadav*
