@@ -37,3 +37,12 @@ I feel Like i want to visit my Favorite country once in my life time. That atomo
 >
 >"If your actions inspire others to dream more, learn more, do more and become more, you are a leader." - John Quincy Adams
 ***********
+### Sample Question 
+Sample question :: https://css-tricks.com/snippets/wordpress/get-featured-image-url/
+~~~~
+get_the_post_thumbnail();
+$thumb_id = get_post_thumbnail_id();
+$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
+$thumb_url = $thumb_url_array[0];
+~~~~
+[Click here for sample snippet reference link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
