@@ -32,3 +32,8 @@ I feel Like i want to visit my Favorite country once in my life time. That atomo
 |   Swizerland                    |  Nature and Waterfalls             |    8days             |
 
 **********
+### Funny Quotes
+>"Success is not final, failure is not fatal It is the courage to continue that counts." - Winston Churchill"
+>
+>"If your actions inspire others to dream more, learn more, do more and become more, you are a leader." - John Quincy Adams
+***********
