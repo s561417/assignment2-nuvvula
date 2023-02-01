@@ -6,7 +6,7 @@
 **India**
 
 List of three best Players:-
-* Rohit Sharma 
-* Virat Kohli 
-* Suryakumar Yadav 
+1. Rohit Sharma 
+2. Virat Kohli 
+3. Suryakumar Yadav 
 
